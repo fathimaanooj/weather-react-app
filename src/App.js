@@ -11,7 +11,7 @@ export default function App() {
         <h1>Weather App</h1>
         <Weather defaultcity="NewYork" />
         <footer>
-          This project was coded by Fathima and is{" "}
+          This project was coded by Fathima and is
           <a href="https://github.com/fathimaanooj/weather-react-app">
             open-sourced on GitHub
           </a>
